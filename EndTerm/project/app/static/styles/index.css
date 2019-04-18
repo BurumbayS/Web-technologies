@@ -1,0 +1,10 @@
+.menu {
+    background-color: red;
+}
+.menu > h1 {
+    display: inline-block;
+    background-color: red;
+}
+.menu > button {
+    display: inline-block;
+}
